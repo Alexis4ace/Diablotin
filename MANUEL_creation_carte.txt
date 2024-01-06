@@ -1,0 +1,13 @@
+Le main se trouve dans le package jeu.vue Creation_carte.java.
+
+Au lancement une map vide se gènere, des boutons se trouvent en haut à droite pour pouvoir modifier la carte.
+
+Le bouton ( au debut ) nommé DECOR permet de changer de categorie ( DECOR -> UNIT -> ITEMS -> EVENT -> DECOR ...) , alors il sera possible d'ajouter autre chose que du DECOR.
+
+Le decor est la seul chose qu'on peux drag, le reste c'est clique par clique. Pour supprimer une unité il faut lui mettre un decor dessus .
+
+L'event ( en bleu ) est une zone où tuer des ennemies rapporte un item au bout de 10 tuées ( par defaut ), il faut cliquer une deux fois delimiter la zone exemple : un click en x et y : 10 et 10 puis un deuxieme click en x et y : 20 et 20 permet de fixer la zone alors tout les ennemies entre 10 10 et 20 20 seront comptabiliser dans la quete des 10 ennemies tuer.
+
+on peux sauvegarder ou charger une carte que l'on avait déja sauvegarder ici ( elle se trouvera dans le dossier CREATION ) .
+
+Vous pourez la renommé STAGE1.txt puis la mettre dans le dossier NIVEAU, alors quand vous lancerez le jeu vous pourez y jouer en lancant une nouveller partie.

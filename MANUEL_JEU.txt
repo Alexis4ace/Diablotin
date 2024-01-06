@@ -1,0 +1,32 @@
+Dès que le jeu ce lance on a deux choix : 
+	- Nouvelle partie : on lance le niveau du début et le but est de tuer le boss de fin.
+	- Charger partie : on charge une partie sauvegarder.
+
+Charger une partie, liste les parties sauvegarder, on peux alors en choisir une ou revenir au menu principal.
+
+PS : Si la base de donnée ne charge pas alors on charge en brut dans le code: GAME N°1.txt  .
+
+Une fois dans le jeu vous pouvez vous déplacer en cliquant sur les flèches, vous pouvez aussi utiliser des sorts mais attention il consomme votre mana qui se recharge avec le temps.
+
+il y a 4 sort déblocable avec des niveaux : Le soin ( niveau 1 ) vous donne des points de vie , l'augmentation des dégâts ( niveau 2 ) vous augmente vos dégâts qui diminueront avec le temps , l'augmentation de la portée d'attaque ( niveau 3 ) qui diminuera avec le temps aussi puis le cercle de feu ( niveau 4 ) qui infligera des dégâts à toutes unité à 3 cases autour.
+
+Il est possible de visualiser la carte et de la déplacer en appuyant longtemps et en bougeant avec la souris, dessus on y voit les monstres et le décor mais on ne voit pas les items à vous de les trouver !
+
+On peux visualiser son inventaire il est possible de porter 5 objets, On peux utiliser des clés à coter d'une porte pour l'ouvrir et on peux supprimer des objets de son inventaire également.
+
+On peux sauvegarder sa partie avec un nom de sauvegarde qui se trouve dans la zone texte ( GAME N° ), en appuyant sur sauvegarder.
+
+Sur la carte on peux se déplacer tant qu'il n'y a pas d'obstacle, les ennemies vous poursuivent si vous vous approcher de trop près et si ils vous rattrapent ils vous attaqueront ( vous aussi vous les attaqueraient ).
+
+Il y a différent adversaire, certain attaque de plus loin mais d'autre sont plus fort.
+
+On peux suivre les différents combats à gauche puis à droite pour voir notre état, à gauche de plus il y est écris quand on ramasse des objets.
+
+Des portes bloque le passage, il faudra trouver une clés et l'utiliser à coter d'une porte pour la débloquer.
+
+
+
+
+
+
+SOLUTION : Le boss se trouve dans une petite pièce à coter de vous mais faudra faire tout le tour pour y accéder, vous pouvez y aller directement sans explorer les autres salles ( surtout le labyrinthe ) .
